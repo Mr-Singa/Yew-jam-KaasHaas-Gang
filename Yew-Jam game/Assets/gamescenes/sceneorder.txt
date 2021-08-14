@@ -1,0 +1,4 @@
+vars:a,b,c
+s:scene1
+a=1:scene2
+a=2:scene3
