@@ -1,0 +1,11 @@
+chars:mees,hidde
++:mees
+mees:hi hi ha ho
+-:mees
++:hidde
+hidde:hallo daar
++:mees
+mees:ga je mee naar de appie
+-:mees
+-:hidde
+a:sure/nah fuck u
