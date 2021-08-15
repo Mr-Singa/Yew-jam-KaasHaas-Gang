@@ -17,7 +17,7 @@ public class ButtonCreator : MonoBehaviour
 		{
 			GameObject button = (GameObject)Instantiate(SceneScript.buttonPrefab);
 			button.transform.SetParent(SceneScript.buttonParentObject.transform);
-			button.transform.position = new Vector3(0, 1.6f - (i * 0.6f));
+			button.transform.position = new Vector3(0, 1.6f - (i * 0.9f));
 
 			// omdat c# fucking retarted is met lambda captures blijkbaar...
 			int capturedindex = i;

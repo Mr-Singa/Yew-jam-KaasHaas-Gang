@@ -1,0 +1,16 @@
+chars:sean,mees,mathijs,hidde,mc,verteller
+verteller:jullie sneaken via de achterdeur het fort binnen en komen direct de troon kamer binnen.
+mc:wow dat was makkelijk
++:sean
+sean:ja inderdaad
+-:sean
++:mees
+mees:wrm heeft hij ook een deur die zo makkelijk binnen te komen is
+-:mees
++:mathijs
+mathijs:haha lol noob
+-:mathijs
++:hidde
+hidde:nou laten we gwn opschieten en hiermee klaar zijn want ik wil iets fallout spelen
+-:hidde
+verteller:onze helden lopen door

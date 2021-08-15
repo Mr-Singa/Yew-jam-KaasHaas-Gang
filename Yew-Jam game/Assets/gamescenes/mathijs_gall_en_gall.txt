@@ -1,0 +1,7 @@
+chars:mathijs,mc,verteller
++:mathijs
+mathijs:Dit is echt een top winkel he! Kijk al die flessen dan echt kei gaaf.
+mc:Ja man echt eğlence welke nemen we?
+mathijs:Doe maar deze ballie pattas dan gaan we stacks blazen op de ibahesh.
+-:mathijs
+verteller:Na het maken van een levensbepalende keuze is het voor mathijs tijd om naar de meeting te gaan in F-Town. 

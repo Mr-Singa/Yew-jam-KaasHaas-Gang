@@ -1,0 +1,7 @@
+chars:verteller,sean,mc
++:sean
+sean:wat moet je nou?
+mc:ik heb je hulp nodig om de bad guy te verslaan
+sean:ik ga alleen mee als je voor mij 43 koopt
+-:sean
+sean_keuze_3:ok ik koop 43 voor je/nee ik heb geen zin om dat te kopen

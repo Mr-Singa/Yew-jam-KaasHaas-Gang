@@ -1,0 +1,5 @@
+chars:hidde,verkoper,verteller
++:hidde
+verkoper:ja hoor alsjeblieft
+-:hidde
+verteller:eindelijk klaar

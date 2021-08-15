@@ -1,0 +1,11 @@
+chars:kerstman,verteller,dode kerstman,mc
++:kerstman
+kerstman:au
+-:kerstman
++:dode kerstman
+verteller:en toen viel hij dood neer
+mc:yes het is mij gelukt, nu kan ik eindelijk weer slapen
+verteller:maar dat was helemaal niet zo (spannend muziek.play)
+verteller:opeens wordt de kaashaas gang slechteriken en gaan ze de wereld overnemen nu dat de kerstman dood is
+-:dode kerstman
+mc:ohnee ik most snel iets vinden om ze tegen te werken

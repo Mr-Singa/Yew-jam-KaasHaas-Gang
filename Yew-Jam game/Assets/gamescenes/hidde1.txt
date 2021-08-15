@@ -1,0 +1,7 @@
+chars:verteller,hidde,mc,verkoper
++:hidde
+verteller:je komt aan in de prancing pony en ziet hidde daar een flessie schrobbeler opsmikkelen.
+mc:hee dikke kom we gaan de kerstman pakken!
+hidde:alweer? ik wil alleen mee als jij zo’n sappig nuka colaatje voor mij regelt.
+-:hidde
+hidde_keuze_1:we hebben er eentje bij de meeting zo.(speech check:,25%,succes)/ ik kijk wel bij de gall en gall

@@ -1,0 +1,12 @@
+chars:mathijs,verteller,mc
++:mathijs
+verteller:Het is zo ver! Je komt eindelijk aan in het land van Mathijs. Dit is niet zomaar een land dit is een land waar alles om sport en vodka draait. Bereid je slokdarm maar voor!
+mc:Hallo heer! Hoe maakt u het?
+mathijs:Ja nee, je stoort me ik ben druk bezig. 
+mc:ga je mee boze meneer verslaan?
+mathijs:Bien, ¿traerás vodka?
+mc:možno by si sa mala pozrieť na svoje brucho
+mathijs:Wat zeg jij nou dan?
+mc:Ik weet het ook niet maar het voelde goed
+-:mathijs
+mathijs_keuze_1:we gaan naar de gall en gall/ik kijk liever een kut video van minimaal 10 uur dan dat ik jou vodka geef

@@ -1,0 +1,6 @@
+chars:mc,gondolf the real,verteller
++:gondolf the real
+mc:hou je bek, vertel meer hierover
+gondolf the real:oke rustaaaaag maat, sommige kaas hebben gaten
+-:gondolf the real
+verteller:dat was niet heel aardig van je hoor!

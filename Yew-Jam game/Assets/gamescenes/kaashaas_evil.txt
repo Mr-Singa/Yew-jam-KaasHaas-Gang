@@ -1,0 +1,12 @@
+chars:sean,mees,mathijs,hidde,mc,verteller
++:mees
++:hidde
++:mathijs
++:sean
+verteller:je kijkt in je zakken maar kan niets vinden, had je maar die ballon gestolen van gondolf the real, dat had je kunnen redden
+mc:fok
+-:mees
+-:hidde
+-:mathijs
+-:sean
+verteller:dankzij de kracht van vriendschap vermoord de kaashaas gang jou en veroveren ze de wereld, vriendschap opent echt alle deuren!

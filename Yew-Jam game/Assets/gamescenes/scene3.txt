@@ -1,3 +1,0 @@
-chars:mees,hidde
-mees:en nu zijn we in scene 3!!!
-hidde:haleluja!!!

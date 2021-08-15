@@ -1,0 +1,5 @@
+chars:sean,verteller
++:sean
+sean: oke maar dan ga ik niet mijn best doen
+-:sean
+verteller:je hebt sean van zijn ondeugden af gehouden, wat hier van komt zal je nog wel zien

@@ -1,0 +1,6 @@
+chars:verteller,gondolf the real
++:gondolf the real
+verteller:je ziet dat gondolf nog een ballon in zijn achterzak heeft verstopt
+mc_heeft_ballon:neem ballon/laat hem zijn ballon houden (arme man)
+-:gondolf the real
+verteller:je verlaat de mac
