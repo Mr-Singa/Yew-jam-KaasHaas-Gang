@@ -1,0 +1,7 @@
+chars:verteller,sean,mc
++:sean
+verteller:je ziet sean helemaal in het donker in zijn kamer zitten
+mc:hallo? is iemand daar
+verteller:je ziet dat sean 10 centimeter van zijn scherm anime zit te kijken.
+-:sean
+sean_keuze_1:je blijf daar staan wachten/je tikt hem op zijn achterhoofd aan

@@ -1,0 +1,4 @@
+chars:verteller
+verteller:helaas is de hele kaashaas gang dronken omdat jij ze drank heb laten meenemen, dat was niet zo slim.
+verteller:dat betekend dus dat je hem helemaal alleen moet verslaan.
+keuze_bossbattle:trap hem in zijn ballen/geeft een bitchslap

@@ -1,0 +1,17 @@
+chars:sean,mees,mathijs,hidde,mc,verteller
+verteller:jullie roepen een massieve leger op om de fort te bestormen
++:mees
+mees:valaaaaaaan
+-:mees
++:hidde
+hidde:aaaaaaaaaaaaaaaaaaah
+-:hidde
++:mathijs
+mathijs:reeeeeeeeeeeeeeeeeee
+-:mathijs
++:sean
+sean:for the emperorrrrrrrrrrrrrrrrrrrrrr
+-:sean
+mc:weeeeeeeeeee
+verteller:helaas wordt het leger door een millioen turrets helemaal kapot geschoten omdat dit de 21e eeuw is en  zij machinegeweren hebben.
+verteller:gelukkig is het jullie gelukt om niet doodgeschoten te worden en kunnen jullie de fort binnen dringen om de eindbaas te verslaan

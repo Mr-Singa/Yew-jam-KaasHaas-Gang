@@ -1,0 +1,14 @@
+chars:sean,mees,mathijs,hidde,mc,verteller
++:mees
++:hidde
++:mathijs
++:sean
+verteller:je kijkt in je zak en vind de ballon die je hebt gestolen van gondolf the real
+verteller:je gebruikt die ballon om de kaashaas gang vast te binden
+verteller:ze vliegen de lucht in en verbranden in de zon, eindelijk dood
+-:mees
+-:hidde
+-:mathijs
+-:sean
+mc:hehe nu kan ik eindelijk slapen
+verteller:einde, dank voor het spelen

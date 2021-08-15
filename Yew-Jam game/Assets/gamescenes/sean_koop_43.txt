@@ -1,0 +1,5 @@
+chars:verteller,sean
++:sean
+sean:yay
+-:sean
+verteller:onderweg koop je wat drank voor sean

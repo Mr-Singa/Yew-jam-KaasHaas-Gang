@@ -1,0 +1,14 @@
+chars:npc4,bob,kerstman,verteller
++:kerstman
+kerstman:ho ho ho, ik ga jullie ontvoeren en dan moeten jullie voor eeuwig sextoys gaan maken op de zuidpool
++:npc4
++:bob
+verteller:deze situatie is erg gevaarlijk, het lijkt erop dat je maar een van je nieuwe vrienden kan redden, wie zal het worden
+npc4_bob_gered:red npc4, hij was zo aardig!/bob is toch veel liever, ik red hem wel!
+verteller:helaas vanwege tijd tekort van de developers konden we hier geen mening volle keuzen in verwerken en gaan ze allebei gewoon dood lol
+-:bob
+-:npc4
+verteller:npc4 is gestikt in de big mac waar hij een hap uit nam toen de kerstman jullie aanviel
+verteller:bob trachtte te vluchten, maar was vergeten dat zijn veters aan elkaar waren gestrikt en brak zijn nek
+-:kerstman
+verteller:de kerstman is voor nu tevreden met de chaos die hier heeft plaatsgevonden en zoekt andere slachtoffers, dit is zeker niet de laatste keer dat je hem zal zien (spoilers!)

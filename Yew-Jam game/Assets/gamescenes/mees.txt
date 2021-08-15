@@ -1,0 +1,29 @@
+chars:mees,verteller,onbekende stem
+verteller:na lang gelopen te hebben over gevaarlijke wegen en paden, ten koste van bloed zweet en tranen ben je dan toch eindelijk aangekomen op de plek waar oude legendes vertellen over trollen en draken.
+verteller:je loopt nu door een bos, de vochtige lucht prikkelt je neus, en in de hoeken van je ogen zie je af en toe beweging in de groene struiken.
+verteller:het pad dat je volgt meandert tussen hoge naaldbomen, het begint langzaam te regenen, de druppels klinken hol op de grond, er klopt hier iets niet.
+verteller:het moment dat het je opvalt dat druppels niet hol horen te klinken op de grond, klinkt er een diep gedreun door het bos
+verteller:plots hoor je een stem, het lijkt alsof de aarde zelf je toespreekt
+onbekende stem:Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+onbekende stem:ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+onbekende stem:Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+onbekende stem:beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+onbekende stem:adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure
+onbekende stem:reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+verteller:deze stem lijkt te praten in latijn! je spreekt alleen (waarschijnlijk) geen latijn loop je door!
+mees_onbelangrijke_keuze:ja/zeker
++:mees
+verteller:nadat je bent doorgelopen zie je aan het einde van het pad mees staan… eindelijk
+mees:hallo daar
+verteller:je verteld vol hardstocht je verhaal aan mees, in de hoop dat hij met je mee wil gaan
+mees:nee daar heb ik geen zin in
+verteller:al zegt mees dan nee, je wil niet opgeven en probeert nog een keer
+mees:ik heb wat anders te doen vandaag
+verteller:je vraagt aan mees wat hij dan te doen heeft
+mees:iets heel belangrijks
+verteller:je vraagt door, wat is er belangrijker dan het verslaan van de kerstman
+mees:dat zou jij toch niet snappen
+verteller:aangezien je toch echt vind dat er niets belangrijker is dan het verslaan van de kerstman, tracht je mees nog een keer over te halen
+mees:oh ok dan, omdat je het zo lief vraagt
+-:mees
+verteller:na een lange reis is het dan zover, je hebt de heel kaas haas gang samen gebracht, hoera!

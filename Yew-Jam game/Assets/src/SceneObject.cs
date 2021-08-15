@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -9,11 +10,12 @@ public class SceneObject
 	public static readonly Rect backgroundDimensions = new Rect(0, 0, 64, 64);
 	string _name;
 	CharacterObject[] characters;
-	Image _background;
+	static Image _background = null;
 
 	bool isDecision = false;
 	string varName = "";
 	string expectedValue = "";
+	Sprite s;
 	DecisionsObject decisionsObject;
 	List<System.Tuple<CharacterObject, DiologueObject>> dialogue = new List<System.Tuple<CharacterObject, DiologueObject>>();
 	int currentDialogueIndex = 0;
@@ -22,14 +24,6 @@ public class SceneObject
 	{
 		_name = name;
 		this.decisionsObject = decisionsObject;
-		//var backgroundTexture = 
-		//_background = Sprite.Create(backgroundTexture, backgroundDimensions, new Vector2(0, 0));
-
-
-		Sprite s = Resources.Load<Sprite>("backgrounds/" + _name);
-		_background = SceneScript.backgroundImageParent.AddComponent<Image>();
-		_background.sprite = s;
-		SceneScript.backgroundImageParent.SetActive(true);
 
 		loadInData(name);
 	}
@@ -44,14 +38,19 @@ public class SceneObject
 	}
 	public void destroy()
 	{
-		SceneScript.Destroy(_background);
+		//SceneScript.Destroy(_background);
 	}
+
 	/// <summary>
 	/// starts the scene, if it has a decision added checks first
 	/// </summary>
 	/// <returns>whether the scene successfully started</returns>
 	public bool start()
 	{
+		//if (_background != null)
+		//	destroy();
+		_background.sprite = s;
+		SceneScript.backgroundImageParent.SetActive(true);
 		if (isDecision)
 		{
 			if (decisionsObject.get(varName) != expectedValue)
@@ -75,25 +74,34 @@ public class SceneObject
 
 		while (!hasShownNewText)
 		{
-			var d = dialogue[currentDialogueIndex];
-			var character = d.Item1;
-			var text = d.Item2;
-
-			currentDialogueIndex++;
-
-			if (text.isShowDialogue())
+			try
 			{
-				if (text.shouldShow())
-					character.show();
+				var d = dialogue[currentDialogueIndex];
+				var character = d.Item1;
+				var text = d.Item2;
+				currentDialogueIndex++;
+
+				if (text.isShowDialogue())
+				{
+					if (text.shouldShow())
+						character.show();
+					else
+						character.hide();
+				}
 				else
-					character.hide();
+				{
+					character?.showName();
+					text.show();
+					hasShownNewText = true;
+				}
 			}
-			else
+			catch (Exception e)
 			{
-				character?.showName();
-				text.show();
-				hasShownNewText = true;
+				Debug.LogError(e);
 			}
+
+
+
 		}
 
 
@@ -101,6 +109,10 @@ public class SceneObject
 	}
 	private void loadInData(string name)
 	{
+		if (_background == null) _background = SceneScript.backgroundImageParent.AddComponent<Image>();
+
+		s = Resources.Load<Sprite>("backgrounds/" + _name);
+
 		using (StreamReader sr = new StreamReader(SceneScript.SCENEORDER_FOLDER + name + ".txt"))
 		{
 			string line;
@@ -113,6 +125,11 @@ public class SceneObject
 	private void parseLine(string line)
 	{
 		int dubblepointpos = line.IndexOf(':');
+		if (dubblepointpos < 0)
+		{
+			int i = 0;
+			i += 1;
+		}
 		string option = line.Substring(0, dubblepointpos);
 		string data = line.Substring(dubblepointpos + 1);
 		if (option.Equals("chars"))
@@ -160,14 +177,21 @@ public class SceneObject
 		}
 		else
 		{
-			foreach (CharacterObject c in characters)
+			try
 			{
-				if (c.name.Equals(option))
+				foreach (CharacterObject c in characters)
 				{
-					DiologueObject d = new DiologueObject(data);
-					dialogue.Add(new System.Tuple<CharacterObject, DiologueObject>(c, d));
-					break;
+					if (c.name.Equals(option))
+					{
+						DiologueObject d = new DiologueObject(data);
+						dialogue.Add(new System.Tuple<CharacterObject, DiologueObject>(c, d));
+						break;
+					}
 				}
+			}
+			catch (Exception e)
+			{
+				Debug.LogError(e);
 			}
 		}
 	}

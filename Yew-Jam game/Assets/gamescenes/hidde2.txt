@@ -1,0 +1,5 @@
+chars:hidde,verkoper,verteller
++:hidde
+verkoper: ik heb hier geen nuka cola je kan even kijken bij de appie
+-:hidde
+verteller:jullie gaan naar de volgende winkel

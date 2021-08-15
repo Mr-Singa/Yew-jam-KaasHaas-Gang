@@ -1,0 +1,3 @@
+chars:verteller,sean,mc
+verteller:je tikt hem om zijn achterhoofd aan maar hij blijft kijken.
+sean_keuze_2:sla hem op zijn kop/blijft wachten

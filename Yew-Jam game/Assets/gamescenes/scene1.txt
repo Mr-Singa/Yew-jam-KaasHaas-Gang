@@ -1,11 +1,12 @@
-chars:mees,hidde
-+:mees
-mees:hi hi ha ho
--:mees
-+:hidde
-hidde:hallo daar
-+:mees
-mees:ga je mee naar de appie
--:mees
--:hidde
-a:sure/nah fuck u
+chars:bob,npc4,verteller,bestuurder
++:npc4
+npc4:hey je bent eindelijk wakker
+npc4:je probeerde toch de grens van mexico naar duitsland over te steken toch? liep je net als wij in die chinese vingerval net als die dief daar!
++:bob
+bob:Duitsland was goed zonder jullie mexicanen de chinesen waren lekker rustig
+-:bob
++:bestuurder
+bestuurder:bek houden, we gaan lekker langs de mcdrive en ik wil wat te kanen hebben!!!!
+-:bestuurder
+-:npc4
+verteller:zo reden onze helden verder, tot dat zij bij een drive through aankwamen

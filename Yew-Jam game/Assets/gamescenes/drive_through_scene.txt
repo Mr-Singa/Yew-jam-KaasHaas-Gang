@@ -1,0 +1,8 @@
+chars:verteller,bestuurder,kerstman
++:bestuurder
+bestuurder:nou we zijn er hoor wat willen jullie hebben?
+-:bestuurder
++:kerstman
+kerstman:oh nee daar laat ik perongeluk m’n granaat vallen, wat een pech
+-:kerstman
+verteller:plots klonk er een harde explosie!!!

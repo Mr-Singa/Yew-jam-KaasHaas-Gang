@@ -1,0 +1,18 @@
+chars:planner sean,planner mees,planner mathijs,planner hidde,mc,verteller
+verteller:jullie meeten in een super geheime locatie, een pannenkoekenhuis
++:planner sean
+planner sean:oke wij moeten de fort aanvallen wat wordt ons plan
++:planner mathijs
+planner mathijs:wij moeten door de achterdeur gaan, hij ziet dat nooit aankomen
++:planner hidde
+planner hidde:nee nee wij moeten door de andere achterdeur gaan, want iedereen weet dat de achterdeur super cliché is.
++:planner mees
+planner mees:ik vind dat mathijs gelijk heeft, door de achterdeur komen we sneller bij de eindbaas.
+-:planner mees
+planner sean:hmmmm maar hidde heeft wel een hele goeie punt.
+-:planner sean
+planner mathijs:er is maar een persoon die de laatste keuze kan maken.
+-:planner mathijs
+planner verteller:iedereen neem een hap van zijn pannenkoek en kijk heel ongemakkelijk jouw aan.
+-:planner hidde
+keuze_aanvalsplan:achterdeur/andere achterdeur

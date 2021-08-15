@@ -1,0 +1,7 @@
+chars:verteller,gondolf the real
+verteller:je ziet een hele oude man met een puntige hoed en een lange baard in de hoek van de macie. je loopt er naar toe
++:gondolf the real
+gondolf the real:gegroet vreemdeling, ik zie dat je bent begonnen een interessante avontuur. voor dit avontuur moet je de KAASHAAS GANG bij elkaar roepen om sinterklaas te verslaan.
+-:gondolf the real
+gondolf_keuze_1:beroof Gondolf / eis nog meer info
+verteller:deze keuze zal grootse gevolgen hebben!!
