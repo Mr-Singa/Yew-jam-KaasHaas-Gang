@@ -104,7 +104,11 @@ public class SceneScript : MonoBehaviour
 				}
 			}
 		}
-
+        if (gameIsDone)
+        {
+			Application.Quit();
+			Debug.Log("done");
+        }
 	}
 
 	void parseLine(string line)
